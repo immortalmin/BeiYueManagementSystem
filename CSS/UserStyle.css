@@ -1,0 +1,16 @@
+.profileImg{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin:5px 5px 5px 60px;
+    float: left;
+}
+#data_table tr td:first-child{
+    text-align: left;
+    line-height: 40px;
+}
+#warningP{
+    display: inline;
+    display: none;
+    color: red;
+}

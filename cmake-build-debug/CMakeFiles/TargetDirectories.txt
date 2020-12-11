@@ -1,0 +1,3 @@
+D:/documents/CLionProjects/BeiYueManagementSystem/cmake-build-debug/CMakeFiles/BeiYueManagementSystem.dir
+D:/documents/CLionProjects/BeiYueManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/documents/CLionProjects/BeiYueManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

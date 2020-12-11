@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\BeiYueManagementSystem.dir/objects.a
+D:\MinGw\bin\ar.exe cr CMakeFiles\BeiYueManagementSystem.dir/objects.a @CMakeFiles\BeiYueManagementSystem.dir\objects1.rsp
+D:\MinGw\bin\g++.exe -O3 -DNDEBUG   -Wl,--whole-archive CMakeFiles\BeiYueManagementSystem.dir/objects.a -Wl,--no-whole-archive  -o BeiYueManagementSystem.exe -Wl,--out-implib,libBeiYueManagementSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BeiYueManagementSystem.dir\linklibs.rsp

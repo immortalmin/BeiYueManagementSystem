@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#data_table{
+    border: #dedddd;
+    color: #707070;
+    font-size: medium;
+    border-collapse: collapse;
+    float: left;
+    width: 100%;
+    margin: 0 20px;
+    padding: 10px;
+    /*position: absolute;*/
+}
+#data_table tr:hover{
+    background-color: #d3d5d5;
+}
+#data_table tr td{
+    max-width: 380px;
+    /*min-width: 70px;*/
+    /*height: 50px;*/
+    padding: 10px;
+    text-align: center;
+}
+#data_table tr th{
+    text-align: center;
+}
+#data_table tr td button{
+    color: white;
+    border: 0;
+    padding: 5px;
+    margin: 3px;
+    border-radius: 10%;
+    font-size: 14px;
+}
+#data_table tr td button:nth-child(1){
+    background-color: #eac53b;
+}
+#data_table tr td div button{
+    background-color: #5cb85c;
+}
+#data_table tr td button:nth-child(2){
+    background-color: #59e06f;
+}
+#data_table tr td button:nth-child(3){
+    background-color: #fa7474;
+}
+.feedback_img{
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+}
+#edit_table{
+    padding: 20px;
+    margin: 10px;
+}
+#edit_table tr td{
+    max-width: 350px;
+    min-width: 200px;
+}
+#page_nav{
+    float: right;
+    margin: 0 50px 0 0;
+}
+#pageSizeSel{
+    float: right;
+    display: inline-block;
+    margin: 15px 10px;
+}

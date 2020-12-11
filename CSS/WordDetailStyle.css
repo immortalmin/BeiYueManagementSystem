@@ -1,0 +1,41 @@
+#word_div{
+    background-color: #e6f5e9;
+    margin: 5px 10px 5px 10px;
+    padding: 10px;
+}
+#word_div p{
+    margin: 5px;
+    display: inline;
+    font-size: 15px;
+}
+#word_div p:first-child{
+    font-weight: bolder;
+    font-size: 25px;
+    display: block;
+}
+#word_div p:nth-child(3){
+    float: right;
+    margin-right: 20px;
+}
+#examples_div{
+    background-color: #d1e9f1;
+    margin: 5px 10px 5px 10px;
+    padding: 10px;
+}
+.example_div p{
+    margin: 5px;
+    font-size: 15px;
+}
+.example_div p:nth-child(1){
+    display: inline;
+}
+.example_div p:nth-child(2){
+    display: inline;
+    float: right;
+    margin-right: 20px;
+}
+.separate_line{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid white;
+}

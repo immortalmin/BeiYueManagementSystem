@@ -1,0 +1,90 @@
+html,body{
+    height: 100%;
+    margin: 2px;
+    background-color: #f5f6f7;
+    background-repeat: repeat;
+    position: relative;
+}
+#content{
+    float: left;
+    width: 90%;
+    height: 100%;
+}
+#content_body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+#menu{
+    height: 100%;
+    width: 10%;
+    float: left;
+    margin: 0;
+    background-color: white;
+}
+#menu ul{
+    width: 100%;
+    list-style: none;
+    padding: 0;
+}
+#menu ul li{
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+#menu ul li:hover{
+    background-color: #d3d5d5;
+}
+.li_selected{
+    background-color: #d3d5d5;
+}
+#header{
+    width: 100%;
+    height: 40px;
+    position: relative;
+    background-color: white;
+}
+#profile_photo{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: inline;
+    line-height: 20px;
+    margin-right: 10px;
+}
+#profile_nav{
+    height: 30px;
+    float: right;
+    margin: 5px;
+}
+
+#profile_nav p{
+    display: inline;
+    float: left;
+    margin: 5px;
+    color: #777;
+}
+#profile{
+    float: right;
+    list-style:none;
+    color: #777;
+    background: #FFF;
+    border: #d3d5d5;
+    padding: 10px;
+    margin: 0;
+    display: none;
+}
+#profile li{
+    padding: 10px;
+}
+#profile li:hover{
+    background: #d3d5d5;
+}
+.subMenu li{
+    font-size: 10px;!important;
+    padding-left: 20px;!important;
+}
+

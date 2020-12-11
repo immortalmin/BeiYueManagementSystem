@@ -1,0 +1,4 @@
+"D:\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" D:\documents\CLionProjects\BeiYueManagementSystem
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/documents/CLionProjects/BeiYueManagementSystem/cmake-build-release
