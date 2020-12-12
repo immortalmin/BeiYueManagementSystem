@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/documents/CLionProjects/BeiYueManagementSystem/C++/FeedbackManage.cpp" "D:/documents/CLionProjects/BeiYueManagementSystem/cmake-build-release/CMakeFiles/BeiYueManagementSystem.dir/C++/FeedbackManage.cpp.obj"
+  "D:/documents/CLionProjects/BeiYueManagementSystem/C++/ImportWord.cpp" "D:/documents/CLionProjects/BeiYueManagementSystem/cmake-build-release/CMakeFiles/BeiYueManagementSystem.dir/C++/ImportWord.cpp.obj"
   "D:/documents/CLionProjects/BeiYueManagementSystem/C++/UserManage.cpp" "D:/documents/CLionProjects/BeiYueManagementSystem/cmake-build-release/CMakeFiles/BeiYueManagementSystem.dir/C++/UserManage.cpp.obj"
   "D:/documents/CLionProjects/BeiYueManagementSystem/C++/WordManage.cpp" "D:/documents/CLionProjects/BeiYueManagementSystem/cmake-build-release/CMakeFiles/BeiYueManagementSystem.dir/C++/WordManage.cpp.obj"
   "D:/documents/CLionProjects/BeiYueManagementSystem/main.cpp" "D:/documents/CLionProjects/BeiYueManagementSystem/cmake-build-release/CMakeFiles/BeiYueManagementSystem.dir/main.cpp.obj"

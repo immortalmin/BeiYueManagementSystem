@@ -169,6 +169,33 @@ C++/FeedbackManage.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BeiYueManagementSystem.dir\build.make CMakeFiles/BeiYueManagementSystem.dir/C++/FeedbackManage.cpp.s
 .PHONY : C++/FeedbackManage.cpp.s
 
+C++/ImportWord.obj: C++/ImportWord.cpp.obj
+
+.PHONY : C++/ImportWord.obj
+
+# target to build an object file
+C++/ImportWord.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BeiYueManagementSystem.dir\build.make CMakeFiles/BeiYueManagementSystem.dir/C++/ImportWord.cpp.obj
+.PHONY : C++/ImportWord.cpp.obj
+
+C++/ImportWord.i: C++/ImportWord.cpp.i
+
+.PHONY : C++/ImportWord.i
+
+# target to preprocess a source file
+C++/ImportWord.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BeiYueManagementSystem.dir\build.make CMakeFiles/BeiYueManagementSystem.dir/C++/ImportWord.cpp.i
+.PHONY : C++/ImportWord.cpp.i
+
+C++/ImportWord.s: C++/ImportWord.cpp.s
+
+.PHONY : C++/ImportWord.s
+
+# target to generate assembly for a file
+C++/ImportWord.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BeiYueManagementSystem.dir\build.make CMakeFiles/BeiYueManagementSystem.dir/C++/ImportWord.cpp.s
+.PHONY : C++/ImportWord.cpp.s
+
 C++/UserManage.obj: C++/UserManage.cpp.obj
 
 .PHONY : C++/UserManage.obj
@@ -262,6 +289,9 @@ help:
 	@echo ... C++/FeedbackManage.obj
 	@echo ... C++/FeedbackManage.i
 	@echo ... C++/FeedbackManage.s
+	@echo ... C++/ImportWord.obj
+	@echo ... C++/ImportWord.i
+	@echo ... C++/ImportWord.s
 	@echo ... C++/UserManage.obj
 	@echo ... C++/UserManage.i
 	@echo ... C++/UserManage.s

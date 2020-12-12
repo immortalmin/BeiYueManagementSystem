@@ -1,0 +1,10 @@
+#importWordBtn{
+    margin: 10px 20px;
+    padding: 3px;
+}
+#totalCountP{
+    display: inline-block;
+    float:left;
+    line-height: 50px;
+    margin: 0 0 0 20px;
+}

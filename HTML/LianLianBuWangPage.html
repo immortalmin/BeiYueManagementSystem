@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>反馈管理</title>
     <link rel="stylesheet" href="../CSS/FeedbackStyle.css">
+    <link rel="stylesheet" href="../CSS/LianLianBuWangStyle.css">
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -22,6 +23,9 @@
         $(document).ready(function(){
             QueryTotalCount();
             getAllWords();
+            $("#importWordBtn").on("click",function (){
+                window.location.href="./ImportWord.html?dict_source=0";
+            })
             // $('#delete_model').on('show.bs.modal',function (event){
             //     let button = $(event.relatedTarget)
             //     let fid = button.data('fid');
@@ -168,7 +172,9 @@
     </script>
 </head>
 <body>
-<p id="totalCountP" style="display: inline-block;float:left;line-height: 50px;margin: 0 0 0 20px;">共10条记录</p>
+
+<p id="totalCountP">共10条记录</p>
+<button id="importWordBtn"><span class="glyphicon glyphicon-open" aria-hidden="true">导入单词</span></button>
 <!--    页码-->
 <nav aria-label="Page navigation" id="page_nav">
     <ul class="pagination" style="margin: 5px">

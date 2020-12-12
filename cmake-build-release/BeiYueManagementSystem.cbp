@@ -85,6 +85,9 @@
 		<Unit filename="D:/documents/CLionProjects/BeiYueManagementSystem/C++/FeedbackManage.cpp">
 			<Option target="BeiYueManagementSystem"/>
 		</Unit>
+		<Unit filename="D:/documents/CLionProjects/BeiYueManagementSystem/C++/ImportWord.cpp">
+			<Option target="BeiYueManagementSystem"/>
+		</Unit>
 		<Unit filename="D:/documents/CLionProjects/BeiYueManagementSystem/C++/UserManage.cpp">
 			<Option target="BeiYueManagementSystem"/>
 		</Unit>

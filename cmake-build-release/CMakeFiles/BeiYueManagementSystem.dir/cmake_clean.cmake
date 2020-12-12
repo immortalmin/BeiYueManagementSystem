@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "BeiYueManagementSystem.exe.manifest"
   "BeiYueManagementSystem.pdb"
   "CMakeFiles/BeiYueManagementSystem.dir/C++/FeedbackManage.cpp.obj"
+  "CMakeFiles/BeiYueManagementSystem.dir/C++/ImportWord.cpp.obj"
   "CMakeFiles/BeiYueManagementSystem.dir/C++/UserManage.cpp.obj"
   "CMakeFiles/BeiYueManagementSystem.dir/C++/WordManage.cpp.obj"
   "CMakeFiles/BeiYueManagementSystem.dir/main.cpp.obj"

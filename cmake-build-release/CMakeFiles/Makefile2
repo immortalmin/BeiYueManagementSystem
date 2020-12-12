@@ -93,12 +93,12 @@ clean: CMakeFiles/BeiYueManagementSystem.dir/clean
 CMakeFiles/BeiYueManagementSystem.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BeiYueManagementSystem.dir\build.make CMakeFiles/BeiYueManagementSystem.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BeiYueManagementSystem.dir\build.make CMakeFiles/BeiYueManagementSystem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\documents\CLionProjects\BeiYueManagementSystem\cmake-build-release\CMakeFiles --progress-num=1,2,3,4,5 "Built target BeiYueManagementSystem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\documents\CLionProjects\BeiYueManagementSystem\cmake-build-release\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target BeiYueManagementSystem"
 .PHONY : CMakeFiles/BeiYueManagementSystem.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/BeiYueManagementSystem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\documents\CLionProjects\BeiYueManagementSystem\cmake-build-release\CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\documents\CLionProjects\BeiYueManagementSystem\cmake-build-release\CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/BeiYueManagementSystem.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\documents\CLionProjects\BeiYueManagementSystem\cmake-build-release\CMakeFiles 0
 .PHONY : CMakeFiles/BeiYueManagementSystem.dir/rule
