@@ -1,0 +1,16 @@
+#uploadForm{
+    margin: 30px;
+}
+#instructionDiv{
+    background-color: #dde4e5;
+    margin: 20px;
+    padding: 10px;
+}
+#instructionDiv img{
+    margin: 10px;
+}
+#warningP{
+    display: inline;
+    display: none;
+    color: red;
+}
